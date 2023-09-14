@@ -1,8 +1,13 @@
-# React + Vite
+Personal portfolio page for JP Fairhart
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Use Vite for creating React app:
+npm create vite@latest portfolio -- --template react
 
-Currently, two official plugins are available:
+To get local server running:
+npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+WSU crimson: #A60F2D
+WSU gray: #4D4D4D
+
+Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
