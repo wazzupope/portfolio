@@ -1,8 +1,10 @@
 import './Nav.css'
+import Hamburger from './Hamburger.jsx'
 
 function Nav() {
   return (
     <nav>
+      <Hamburger />
       <ul>
         <li>Home</li>
         <li>About</li>
