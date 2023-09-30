@@ -16,3 +16,5 @@ function Hamburger() {
 }
 
 export default Hamburger
+
+{/*need to figure out alternative to "toggleClass"*/}
