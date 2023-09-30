@@ -1,21 +1,13 @@
 function Nav() {
   return (
     <nav>
-      <div>
-        Home
-      </div>
-      <div>
-        About
-      </div>
-      <div>
-        Services
-      </div>
-      <div>
-        Portfolio
-      </div>
-      <div>
-        Contact
-      </div>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Services</li>
+        <li>Portfolio</li>
+        <li>Contact</li>
+      </ul>
     </nav>
   )
 }
