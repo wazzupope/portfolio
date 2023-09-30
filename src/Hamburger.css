@@ -6,8 +6,8 @@
   transition: all 0.25s;
 }
 
-.hamburger__top-bun,
-.hamburger__bottom-bun {
+.hamburger-bun-top,
+.hamburger-bun-bottom {
   content: '';
   display: block;
   position: absolute;
@@ -23,12 +23,12 @@
   background: #999;
 }
 
-.hamburger__top-bun {
+.hamburger-bun-top {
   top: 23px;
   transform: translateY(-3px);
 }
 
-.hamburger__bottom-bun {
+.hamburger-bun-bottom {
   bottom: 23px;
   transform: translateY(3px);
 }
@@ -37,13 +37,13 @@
   transform: rotate(90deg);
 }
 
-.open .hamburger__top-bun {
+.open .hamburger-bun-top {
   transform: 
     rotate(45deg) 
     translateY(0px);
 }
 
-.open .hamburger__bottom-bun {
+.open .hamburger-bun-bottom {
   transform: 
     rotate(-45deg) 
     translateY(0px);
