@@ -1,8 +1,8 @@
 import './Hamburger.css'
 
 function Hamburger() {
-  let burger = document.getElementByClassName('hamburger')
-  
+  let burger = document.getElementsByClassName('hamburger')
+
   function handleClick() {
     burger.toggleClass('open')
   }
