@@ -33,17 +33,17 @@
   transform: translateY(3px);
 }
 
-.open {
+.active {
   transform: rotate(90deg);
 }
 
-.open .hamburger-bun-top {
+.active .hamburger-bun-top {
   transform: 
     rotate(45deg) 
     translateY(0px);
 }
 
-.open .hamburger-bun-bottom {
+.active .hamburger-bun-bottom {
   transform: 
     rotate(-45deg) 
     translateY(0px);
