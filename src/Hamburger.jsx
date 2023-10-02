@@ -1,14 +1,15 @@
+import { useState } from 'react';
 import './Hamburger.css'
 
 function Hamburger() {
-  let burger = document.getElementsByClassName('hamburger')
+  const [isActive, setActive] = useState("false");
 
-  function handleClick() {
-    burger.toggleClass('open')
-  }
+  const ToggleClass = () => {
+    setActive(!isActive);
+  };
 
   return (
-    <div className="hamburger" onClick={handleClick}>
+    <div className="hamburger {isActive ? active : inactive}" onClick={ToggleClass}>
       <span className="hamburger-bun-top"></span>
       <span className="hamburger-bun-bottom"></span>
     </div>
@@ -16,5 +17,3 @@ function Hamburger() {
 }
 
 export default Hamburger
-
-{/*need to figure out alternative to "toggleClass"*/}
