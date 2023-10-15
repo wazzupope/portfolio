@@ -24,3 +24,6 @@ Add contact info
 Edit text content
 Fix hamburger menu and routing
 Styling
+Responsiveness
+Check accessibility checklist
+Choose where to host/deploy
