@@ -16,3 +16,11 @@ Open tabs when last left off:
 https://css-tricks.com/snippets/css/apple-com-hamburger-bun-menu/
 https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website
 https://react.dev/learn/sharing-state-between-components
+
+To Do:
+Change logo file
+Add screenshot and/or link of LFI to Portfolio component
+Add contact info
+Edit text content
+Fix hamburger menu and routing
+Styling
