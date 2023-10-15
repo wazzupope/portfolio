@@ -1,4 +1,4 @@
-function Services() {
+function Skills() {
   return (
     <section>
       <h2>Skills/Technologies</h2>
@@ -13,4 +13,4 @@ function Services() {
   )
 }
 
-export default Services
+export default Skills
