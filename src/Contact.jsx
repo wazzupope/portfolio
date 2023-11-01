@@ -1,3 +1,5 @@
+// How to import Contact.css styles? With <style> tag?
+
 function Contact() {
   return (
     <section>
