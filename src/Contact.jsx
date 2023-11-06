@@ -4,9 +4,9 @@ function Contact() {
   return (
     <section>
       <h2>Contact</h2>
-      <a href="">Email</a>
-      <a href="">LinkedIn</a>
-      <a href="">GitHub</a>
+      <a href="mailto:johnpaulfairhart@hotmail.com">Email</a>
+      <a href="https://www.linkedin.com/in/jp-fairhart">LinkedIn</a>
+      <a href="https://github.com/wazzupope">GitHub</a>
     </section>
   )
 }
