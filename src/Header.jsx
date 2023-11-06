@@ -4,7 +4,7 @@ import Nav from './Nav.jsx'
 function Header() {
   return (
     <header>
-      <img id='white-polaris-logo' src='../assets/Polaris-white.jpg' alt='Polaris Logo'/>
+      <img id='white-FWD-logo' src='/assets/FWD-logo-white.jpg' alt='Fairhart Web Development Logo'/>
       <Nav />
     </header>
   )
