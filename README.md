@@ -23,6 +23,7 @@ Change contact links to logos
 Fix logo image sizing
 Edit text content
 Fix hamburger menu and routing
+ - delete Hamburger.jsx and Hamburger.css from previous attempt?
 Styling
 Responsiveness
 Check accessibility checklist
