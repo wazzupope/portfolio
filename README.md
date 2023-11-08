@@ -18,9 +18,9 @@ https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favico
 https://react.dev/learn/sharing-state-between-components
 
 To Do:
-Change logo file
 Add screenshot and/or link of LFI to Portfolio component
-Add contact info
+Change contact links to logos
+Fix logo image sizing
 Edit text content
 Fix hamburger menu and routing
 Styling
