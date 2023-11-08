@@ -6,23 +6,22 @@ npm create vite@latest portfolio -- --template react
 To get local server running:
 npm run dev
 
+To install dependency for React Burger Menu:
+npm install react-burger-menu --save
+Docs - https://www.npmjs.com/package/react-burger-menu
+
 
 WSU crimson: #A60F2D
 WSU gray: #4D4D4D
 
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
-Open tabs when last left off:
-https://css-tricks.com/snippets/css/apple-com-hamburger-bun-menu/
-https://stackoverflow.com/questions/4888377/how-to-add-a-browser-tab-icon-favicon-for-a-website
-https://react.dev/learn/sharing-state-between-components
-
 To Do:
 Add screenshot and/or link of LFI to Portfolio component
 Change contact links to logos
 Fix logo image sizing
 Edit text content
-Fix hamburger menu and routing
+Fix hamburger menu styling
  - delete Hamburger.jsx and Hamburger.css from previous attempt?
 Styling
 Responsiveness
