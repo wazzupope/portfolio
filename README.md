@@ -17,7 +17,6 @@ WSU gray: #4D4D4D
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
 To Do:
-Add screenshot and/or link of LFI to Portfolio component
 Change contact links to logos
 Fix logo image sizing
 Edit text content
