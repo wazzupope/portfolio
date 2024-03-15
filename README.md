@@ -17,8 +17,7 @@ WSU gray: #4D4D4D
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
 To Do:
-Change contact links to logos
-Fix logo image sizing
+Fix header logo and contact section image sizing
 Edit text content
 Fix hamburger menu styling
 Styling
