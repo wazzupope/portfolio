@@ -2,7 +2,7 @@ import './Contact.css'
 
 function Contact() {
   return (
-    <section>
+    <section id='contact-section'>
       <h2>Contact</h2>
       <div id='logo-box'>
         <a href="mailto:johnpaulfairhart@hotmail.com"><img src="../public/assets/email-svg-white-lines.svg" alt="email icon"/></a>
