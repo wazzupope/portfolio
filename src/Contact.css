@@ -5,6 +5,9 @@ a {
 .contact-links {
   width: 50px;
   padding: 10px;
+  margin: 10px;
+  box-shadow: 0 1px 10px white;
+  border-radius: 10px;
 }
 
 #contact-section {
