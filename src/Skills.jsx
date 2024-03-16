@@ -1,6 +1,6 @@
 function Skills() {
   return (
-    <section>
+    <section id='skills-section'>
       <h2>Skills/Technologies</h2>
       <ul>
         <li>HTML</li>
