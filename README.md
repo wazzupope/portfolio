@@ -17,10 +17,17 @@ WSU gray: #4D4D4D
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
 To Do:
-Fix header logo and contact section image sizing
+Dial in header logo and contact section image sizing
 Edit text content
-Fix hamburger menu styling
+Add personal photo?
+Fix hamburger menu styling - start from scratch?
 Styling
+  Choose font
+  Add font
+  Spacing
+  Alignment
 Responsiveness
+  Move elements based on mobile vs desktop?
+  Change nav behavior?
 Check accessibility checklist
 Choose where to host/deploy
