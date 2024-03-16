@@ -1,3 +1,8 @@
+#LFI-link {
+  display: flex;
+  justify-content: center;
+}
+
 #LFI-screenshot {
-  width: 100%;
+  width: 80%;
 }
