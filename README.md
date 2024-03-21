@@ -17,10 +17,12 @@ WSU gray: #4D4D4D
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
 To Do:
+useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
 Add personal photo?
-Fix hamburger menu styling - start from scratch?
+Fix hamburger menu styling
+Make sure burger menu links move to appropriate section of page
 Styling
   Choose font
   Add font
