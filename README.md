@@ -10,6 +10,7 @@ To install dependency for React Burger Menu:
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
 
+Hosted on GitHub Pages at wazzupope.github.io/portfolio
 
 Crimson: #A60F2D
 Gray: #4D4D4D
@@ -33,4 +34,3 @@ Responsiveness
   Change nav behavior?
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Check accessibility checklist
-Choose where to host/deploy
