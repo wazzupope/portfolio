@@ -2,6 +2,10 @@
   background-color: white;
 }
 
+#nav:hover {
+  opacity: 1;
+}
+
 ul {
   list-style: none;
   background-color: white;
@@ -18,18 +22,31 @@ li {
   height: 30px;
   right: 36px;
   top: 36px;
+  background: transparent;
 }
 
 .bm-burger-bars {
-  background: #373a47;
+  background: #4D4D4D;
 }
 
 .bm-burger-bars-hover {
-  background: #a90000;
+  background: #4D4D4D;
+}
+
+.bm-cross {
+  background: white;
+}
+
+.bm-item {
+  background: black;
 }
 
 .bm-menu {
-  background: #373a47;
+  background: black;
   padding: 2.5em 1.5em 0;
   font-size: 1.15em;
+}
+
+#react-burger-cross-btn {
+  background: white;
 }
