@@ -31,5 +31,6 @@ Styling
 Responsiveness
   Move elements based on mobile vs desktop?
   Change nav behavior?
+Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Check accessibility checklist
 Choose where to host/deploy
