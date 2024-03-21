@@ -1,4 +1,4 @@
-Personal portfolio page for JP Fairhart
+Personal portfolio page
 
 Use Vite for creating React app:
 npm create vite@latest portfolio -- --template react
@@ -11,8 +11,8 @@ npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
 
 
-WSU crimson: #A60F2D
-WSU gray: #4D4D4D
+Crimson: #A60F2D
+Gray: #4D4D4D
 
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
