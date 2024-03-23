@@ -6,6 +6,9 @@ npm create vite@latest portfolio -- --template react
 To get local server running:
 npm run dev
 
+To run a build for deployment:
+npm run build
+
 To install dependency for React Burger Menu:
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
