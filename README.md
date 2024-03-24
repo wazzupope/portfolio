@@ -9,11 +9,12 @@ npm run dev
 To run a build for deployment:
 npm run build
 
+Hosted on Netlify at:
+fairhart.netlify.app
+
 To install dependency for React Burger Menu:
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
-
-Hosted on GitHub Pages at wazzupope.github.io/portfolio
 
 Crimson: #A60F2D
 Gray: #4D4D4D
