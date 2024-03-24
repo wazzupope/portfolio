@@ -22,6 +22,7 @@ Gray: #4D4D4D
 Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
 
 To Do:
+figure out why images in contact.jsx file are not deploying to netlify
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
