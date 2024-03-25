@@ -8,3 +8,7 @@
   src: local('Manrope'), url(../public/assets/Manrope/static/Manrope-Bold.ttf) format('truetype');
   font-weight: bold;
 }
+
+* {
+  font-family: Manrope;
+}
