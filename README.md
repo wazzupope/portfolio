@@ -8,6 +8,7 @@ npm run dev
 
 To run a build for deployment:
 npm run build
+However, this command not necessary with Netlify hosting, pushing to github will automatically deploy.
 
 Hosted on Netlify at:
 fairhart.netlify.app
