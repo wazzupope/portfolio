@@ -28,6 +28,9 @@ Dial in header logo and contact section image sizing
 Edit text content
 Add personal photo?
 Fix hamburger menu styling
+  Can you make it slide down from the top?
+  Size in relation to the rest of the screen
+  Dynamic width based on screen width
 Make sure burger menu links move to appropriate section of page
 Styling
   Choose font
@@ -35,7 +38,6 @@ Styling
   Spacing
   Alignment
 Responsiveness
-  Move elements based on mobile vs desktop?
-  Change nav behavior?
+  Static nav on one side on desktop, burger pops up instead on mobile widths
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Check accessibility checklist
