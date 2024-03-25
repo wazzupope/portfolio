@@ -5,11 +5,11 @@ function Nav() {
   return (
     <nav id='nav'>
       <Menu right>
-        <a id="home" className="menu-item" href="/">Home</a>
-        <a id="about" className="menu-item" href="/about">About</a>
-        <a id="skills" className="menu-item" href="/skills">Skills</a>
-        <a id="portfolio" className="menu-item" href="/portfolio">Portfolio</a>
-        <a id="contact" className="menu-item" href="/contact">Contact</a>
+        <a id="home" className="menu-item" href="/">HOME</a>
+        <a id="about" className="menu-item" href="/about">ABOUT</a>
+        <a id="skills" className="menu-item" href="/skills">SKILLS</a>
+        <a id="portfolio" className="menu-item" href="/portfolio">PORTFOLIO</a>
+        <a id="contact" className="menu-item" href="/contact">CONTACT</a>
       </Menu>
     </nav>
   )
