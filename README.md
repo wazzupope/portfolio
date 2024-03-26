@@ -24,15 +24,16 @@ Light and dark theme with gray as background for dark mode and text for light mo
 
 To Do:
 figure out why images in contact.jsx file are not deploying to netlify
+add "apple tv"-like element to hero text, something along the lines of "your web solution for medical, health, wellness, sports leagues, tournaments, etc."
+  https://codepen.io/stevenlei/pen/RwpRgzy
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
-Add personal photo?
 Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
   Dynamic width based on screen width
-Make sure burger menu links move to appropriate section of page
+Close burger menu on click of a link?
 Styling
   Choose font
   Add font
