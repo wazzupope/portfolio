@@ -1,0 +1,8 @@
+#skills-list {
+  list-style: none;
+}
+
+#skills-header, #skills-list, #skills-section, .skills-list-item {
+  background-color: white;
+  color: black;
+}
