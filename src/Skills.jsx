@@ -1,3 +1,5 @@
+import './Skills.css'
+
 function Skills() {
   return (
     <section id='skills-section'>
