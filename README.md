@@ -1,28 +1,26 @@
-Personal portfolio page
+# Personal portfolio page
 
-Use Vite for creating React app:
+# Use Vite for creating React app:
 npm create vite@latest portfolio -- --template react
 
-To get local server running:
+# To get local server running:
 npm run dev
 
-To run a build for deployment:
+# To run a build for deployment:
 npm run build
 However, this command not necessary with Netlify hosting, pushing to github will automatically deploy.
 
-Hosted on Netlify at:
+# Hosted on Netlify at:
 fairhart.netlify.app
 
-To install dependency for React Burger Menu:
+# To install dependency for React Burger Menu:
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
 
-Crimson: #A60F2D
-Gray: #4D4D4D
+# CSS Reset
+  https://www.joshwcomeau.com/css/custom-css-reset/
 
-Light and dark theme with gray as background for dark mode and text for light mode, crimson as accent color?
-
-To Do:
+# To Do:
 figure out why images in contact.jsx file are not deploying to netlify
 add "apple tv"-like element to hero text, something along the lines of "your web solution for medical, health, wellness, sports leagues, tournaments, etc."
   https://codepen.io/stevenlei/pen/RwpRgzy
