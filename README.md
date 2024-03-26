@@ -26,6 +26,10 @@ To Do:
 figure out why images in contact.jsx file are not deploying to netlify
 add "apple tv"-like element to hero text, something along the lines of "your web solution for medical, health, wellness, sports leagues, tournaments, etc."
   https://codepen.io/stevenlei/pen/RwpRgzy
+Look at Nav.jsx hrefs, the were previously "/" and "/About", etc.
+  When you changed to #section-names, the url path changed
+  What kind of routing is happening with the burger menu?
+  Should you just change your ids to be more presentable as url paths?
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
