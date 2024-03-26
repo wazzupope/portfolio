@@ -6,16 +6,6 @@
   opacity: 1;
 }
 
-ul {
-  list-style: none;
-  background-color: white;
-}
-
-li {
-  color: black;
-  background-color: white;
-}
-
 .bm-burger-button {
   position: fixed;
   width: 36px;
