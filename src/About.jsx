@@ -1,6 +1,6 @@
 function About() {
   return (
-    <section id='about-section'>
+    <section id='about'>
       <div>
         <h2>About</h2>
         <p>Originally a physical therapist by trade, my skillset is unique to the web development field.</p>
