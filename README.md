@@ -23,10 +23,6 @@ Docs - https://www.npmjs.com/package/react-burger-menu
 # To Do:
 add "apple tv"-like element to hero text, something along the lines of "your web solution for medical, health, wellness, sports leagues, tournaments, etc."
   https://codepen.io/stevenlei/pen/RwpRgzy
-Look at Nav.jsx hrefs, the were previously "/" and "/About", etc.
-  When you changed to #section-names, the url path changed
-  What kind of routing is happening with the burger menu?
-  Should you just change your ids to be more presentable as url paths?
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
@@ -36,8 +32,6 @@ Fix hamburger menu styling
   Dynamic width based on screen width
 Close burger menu on click of a link?
 Styling
-  Choose font
-  Add font
   Spacing
   Alignment
 Responsiveness
