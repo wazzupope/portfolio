@@ -18,7 +18,11 @@ npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
 
 # CSS Reset
-  https://www.joshwcomeau.com/css/custom-css-reset/
+https://www.joshwcomeau.com/css/custom-css-reset/
+
+# Apple TV - Word Rotation
+Hero animation based on the following code:
+https://codepen.io/stevenlei/pen/RwpRgzy
 
 # To Do:
 add "apple tv"-like element to hero text, something along the lines of "your web solution for medical, health, wellness, sports leagues, tournaments, etc."
