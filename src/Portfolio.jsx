@@ -4,7 +4,7 @@ import './Portfolio.css'
 
 function Portfolio() {
   return (
-    <section id='portfolio-section'>
+    <section id='portfolio'>
       <h2>Portfolio</h2>
       <div>
         <h3>LFizzle Invitational</h3>
