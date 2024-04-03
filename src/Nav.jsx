@@ -6,10 +6,10 @@ function Nav() {
     <nav id='nav'>
       <Menu right>
         <a id="home" className="menu-item" href="#header">HOME</a>
-        <a id="about" className="menu-item" href="#about-section">ABOUT</a>
-        <a id="skills" className="menu-item" href="#skills-section">SKILLS</a>
-        <a id="portfolio" className="menu-item" href="#portfolio-section">PORTFOLIO</a>
-        <a id="contact" className="menu-item" href="#contact-section">CONTACT</a>
+        <a id="about" className="menu-item" href="#about">ABOUT</a>
+        <a id="skills" className="menu-item" href="#skills">SKILLS</a>
+        <a id="portfolio" className="menu-item" href="#portfolio">PORTFOLIO</a>
+        <a id="contact" className="menu-item" href="#contact">CONTACT</a>
       </Menu>
     </nav>
   )
