@@ -25,6 +25,7 @@ Hero animation based on the following code:
 https://codepen.io/stevenlei/pen/RwpRgzy
 
 # To Do:
+Center contact section images
 Fix apple TV element, troubleshooting boilerplate already added
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
