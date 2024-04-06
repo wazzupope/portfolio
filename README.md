@@ -25,7 +25,7 @@ Hero animation based on the following code:
 https://codepen.io/stevenlei/pen/RwpRgzy
 
 # To Do:
-Fix apple TV element, troubleshooting boilerplate already added
+Fix apple TV element, troubleshooting boilerplate already added - need to adapt to react, use useRef
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
