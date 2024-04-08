@@ -21,7 +21,7 @@ Docs - https://www.npmjs.com/package/react-burger-menu
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # Apple TV - Word Rotation
-Hero animation based on the following code:
+Hero animation based on the following code, which is written in JS with DOM manipulation. It has been adapted to React with useRef hook:
 https://codepen.io/stevenlei/pen/RwpRgzy
 
 # To Do:
