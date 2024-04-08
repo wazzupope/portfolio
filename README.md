@@ -21,11 +21,11 @@ Docs - https://www.npmjs.com/package/react-burger-menu
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # Apple TV - Word Rotation
-Hero animation based on the following code, which is written in JS with DOM manipulation. It has been adapted to React with useRef hook:
+Hero animation based on the following code, which is written in JS with DOM manipulation. It has been adapted to React, but the css and other parts originated from this work:
 https://codepen.io/stevenlei/pen/RwpRgzy
 
 # To Do:
-Fix apple TV element, troubleshooting boilerplate already added - need to adapt to react, use useRef
+Fix error in WordWheel, only re-rendering one time
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
