@@ -1,4 +1,5 @@
 import { useState, useCallback, useEffect, useRef } from 'react'
+import './WordWheel.css'
 
 function WordWheel(props) {
   let endArray = props.text;
@@ -23,7 +24,7 @@ function WordWheel(props) {
   }, [changeEnd])
 
   return(
-      <span>{newEnd}</span>
+    <span className='animation'>{newEnd}</span>
   )
 }
 
