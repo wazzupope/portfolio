@@ -11,7 +11,7 @@ function Home() {
     <main id="hero">
       <h1>Fairhart Web Development</h1>
       <h2>
-        Your web solution for <WordWheel className='mask' text={sentenceEnders}/>
+        Your web solution for <WordWheel text={sentenceEnders}/>
       </h2>
     </main>
   )
