@@ -20,12 +20,9 @@ Docs - https://www.npmjs.com/package/react-burger-menu
 # CSS Reset
 https://www.joshwcomeau.com/css/custom-css-reset/
 
-# Apple TV - Word Rotation
-Hero animation based on the following code, which is written in JS with DOM manipulation. It has been adapted to React, but the css and other parts originated from this work:
-https://codepen.io/stevenlei/pen/RwpRgzy
-
 # To Do:
-Fix error in WordWheel, only re-rendering one time
+Why is Home.css not taking effect on #hero?
+Adjust CSS on WordWheel to make transition animation work
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
