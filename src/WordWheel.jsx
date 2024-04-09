@@ -1,17 +1,19 @@
-import { useState, useCallback, useEffect } from 'react'
+import { useState, useCallback, useEffect, useRef } from 'react'
 
 function WordWheel(props) {
   let endArray = props.text;
 
   const [newEnd, setnewEnd] = useState(endArray[0]);
-  let endIndex = 0;
+  const endIndexRef = useRef(0);
 
   const changeEnd = useCallback(() => {
-    if (endIndex === 4) {
-      setnewEnd(props.text[0])
+    if (endIndexRef.current === 4) {
+      setnewEnd(endArray[0])
+      endIndexRef.current = 0;
     }
     else {
-    setnewEnd(props.text[endIndex + 1]);
+    setnewEnd(endArray[endIndexRef.current + 1]);
+    endIndexRef.current++
     }
   }, []);
 
