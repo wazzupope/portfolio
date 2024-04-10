@@ -14,17 +14,21 @@ However, this command not necessary with Netlify hosting, pushing to github will
 fairhart.netlify.app
 
 # To install dependency for React Burger Menu:
+Used for hamburger menu nav that slides in from side of screen
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
+
+# react-type-animation
+Used to animate text in hero
+npm i react-type-animation
+Docs - https://react-type-animation.netlify.app/
 
 # CSS Reset
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-Delete WordWheel jsx and css files
-Add link to docs for react-type-animation dependency
 Why is Home.css not taking effect on #hero?
-Adjust CSS on WordWheel to make transition animation work
+Adjust styling for hero/main section
 useClickAway from react-use to close nav when clicking outside of that element
 Dial in header logo and contact section image sizing
 Edit text content
