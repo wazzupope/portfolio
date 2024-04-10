@@ -21,6 +21,8 @@ Docs - https://www.npmjs.com/package/react-burger-menu
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
+Delete WordWheel jsx and css files
+Add link to docs for react-type-animation dependency
 Why is Home.css not taking effect on #hero?
 Adjust CSS on WordWheel to make transition animation work
 useClickAway from react-use to close nav when clicking outside of that element
