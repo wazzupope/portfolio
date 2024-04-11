@@ -1,7 +1,5 @@
 import './Portfolio.css'
 
-// wrap h3 and img with link tags that go to https://lfizzle-invitational.web.app/
-
 function Portfolio() {
   return (
     <section id='portfolio'>
