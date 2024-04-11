@@ -27,7 +27,6 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-Why is Home.css not taking effect on #hero?
 Adjust styling for hero/main section
 Wrap h3 in portfolio section with link to lfi website as well as the image itself?
 useClickAway from react-use to close nav when clicking outside of that element
