@@ -18,9 +18,9 @@ const Animation = () => {
         },
       ]}
       wrapper="span"
-      cursor={true}
+      cursor={false}
       repeat={Infinity}
-      style={{ fontSize: '2em', display: 'inline-block' }}
+      style={{ display: 'inline-block' }}
     />
   );
 };
