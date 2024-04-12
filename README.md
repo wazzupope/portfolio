@@ -17,6 +17,7 @@ fairhart.netlify.app
 Used for hamburger menu nav that slides in from side of screen
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
+FAQ, includes examples for handling open/closed state - https://github.com/negomi/react-burger-menu/wiki/FAQ
 
 # react-type-animation
 Used to animate text in hero
