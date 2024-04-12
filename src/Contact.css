@@ -16,6 +16,7 @@ a {
   align-items: center;
   background-color: black;
   color: white;
+  padding: 2rem;
 }
 
 #logo-box {
