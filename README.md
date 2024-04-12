@@ -27,20 +27,16 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-Adjust styling for hero/main section
-Wrap h3 in portfolio section with link to lfi website as well as the image itself?
 useClickAway from react-use to close nav when clicking outside of that element
-Dial in header logo and contact section image sizing
 Edit text content
 Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
   Dynamic width based on screen width
 Close burger menu on click of a link?
-Styling
-  Spacing
-  Alignment
+Consider adding image to background of home view under hero
 Responsiveness
   Static nav on one side on desktop, burger pops up instead on mobile widths
+  Fine tune sizing and spacing
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Check accessibility checklist
