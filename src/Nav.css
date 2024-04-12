@@ -6,6 +6,10 @@
   opacity: 1;
 }
 
+.menu-item {
+  color: white;
+}
+
 .bm-burger-button {
   position: fixed;
   width: 36px;
