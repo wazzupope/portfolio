@@ -6,9 +6,9 @@ function Nav() {
     <nav id='nav'>
       <Menu right>
         <a id="home-link" className="menu-item" href="/">HOME</a>
+        <a id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
         <a id="about-link" className="menu-item" href="#about">ABOUT</a>
         <a id="skills-link" className="menu-item" href="#skills">SKILLS</a>
-        <a id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
         <a id="contact-link" className="menu-item" href="#contact">CONTACT</a>
       </Menu>
     </nav>
