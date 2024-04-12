@@ -6,16 +6,17 @@
   background-color: black;
   color: white;
   height: 87vh;
+  font-size: 2rem;
 }
 
 #hero-subheader {
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 1.5em;
-  height: 4em;
+  font-size: 2rem;
+  height: 2rem;
 }
 
 #hero-subheader span {
-  color: #ac0d2f;
+  color: #9c0f29;
 }
