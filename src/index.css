@@ -20,6 +20,7 @@ The following CSS is based on this reset, with some slight changes (font, for on
 * {
   margin: 0;
   font-family: Manrope;
+  background-color: black;
 }
 body {
   line-height: 1.5;
