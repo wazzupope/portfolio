@@ -4,7 +4,7 @@ import './Nav.css'
 function Nav() {
   return (
     <nav id='nav'>
-      <Menu right noOverlay>
+      <Menu right>
         <a id="home-link" className="menu-item" href="/">HOME</a>
         <a id="about-link" className="menu-item" href="#about">ABOUT</a>
         <a id="skills-link" className="menu-item" href="#skills">SKILLS</a>
