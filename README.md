@@ -29,14 +29,16 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 # To Do:
 useClickAway from react-use to close nav when clicking outside of that element
 Edit text content
+Move portfolio component up, between Home and About?
 Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
   Dynamic width based on screen width
-Close burger menu on click of a link?
+Close burger menu when you click on a link within it?
 Consider adding image to background of home view under hero
 Responsiveness
   Static nav on one side on desktop, burger pops up instead on mobile widths
   Fine tune sizing and spacing
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
+Modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
 Check accessibility checklist
