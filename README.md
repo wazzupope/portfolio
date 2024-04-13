@@ -28,13 +28,11 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-useClickAway from react-use to close nav when clicking outside of that element
 Edit text content
 Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
   Dynamic width based on screen width
-Close burger menu when you click on a link within it?
 Consider adding image to background of home view under hero
 Responsiveness
   Static nav on one side on desktop, burger pops up instead on mobile widths
