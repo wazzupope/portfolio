@@ -28,11 +28,8 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-background color black on root element is making it so that about section center can't be white - can we remove the root element black, or change specificity of about.css about-content-div class? Why was there no issue with skills component, if it was the same situation of it just being text and background color changed? why did the global background have an effect on about and not skills?
-
 useClickAway from react-use to close nav when clicking outside of that element
 Edit text content
-Move portfolio component up, between Home and About?
 Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
