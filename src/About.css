@@ -1,12 +1,35 @@
 #about {
   background-color: white;
   color: black;
-  padding: 3em;
   height: 100vh;
-  font-size: 1.5rem;
+}
+
+#about-header {
+  padding-bottom: 1em;
 }
 
 #about-header, .about-content-div, .about-subheader, .about-text {
   background-color: white;
   color: black;
+}
+
+@media screen and (max-width: 767px) {
+  #about {
+    padding: 1em;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #about {
+    padding: 3em;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #about {
+    padding: 3em;
+    font-size: 1.5rem;
+  }
 }
