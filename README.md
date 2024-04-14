@@ -36,6 +36,7 @@ Fix hamburger menu styling
   Change size of "X" close button
 Consider adding image to background of home view under hero
 Responsiveness
+  Figure out how to adjust font size for the components like Portfolio and About to keep all the text within the screen height, but not mess up the spacing and padding. Keep it consistent with each media query breakpoint. Need to create some padding between paragraphs and headers in About component.
   Static nav on one side on desktop, burger pops up instead on mobile widths
   Fine tune sizing and spacing
   Add media queries
