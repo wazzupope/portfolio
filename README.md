@@ -33,6 +33,7 @@ Fix hamburger menu styling
   Can you make it slide down from the top?
   Size in relation to the rest of the screen
   Dynamic width based on screen width
+  Change size of "X" close button
 Consider adding image to background of home view under hero
 Responsiveness
   Static nav on one side on desktop, burger pops up instead on mobile widths
