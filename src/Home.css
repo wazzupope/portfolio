@@ -1,15 +1,3 @@
-@media screen and (max-width: 767px) {
-  
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  
-}
-
-@media screen and (min-width: 1024px) {
-  
-}
-
 #hero {
   display: flex;
   flex-direction: column;
@@ -18,11 +6,9 @@
   background-color: black;
   color: white;
   height: 87vh;
-  font-size: 2rem;
 }
 
 #hero-header {
-  max-width: 80%;
   text-align: center;
 }
 
@@ -30,11 +16,43 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  font-size: 2rem;
   height: 2rem;
   padding-bottom: 4em;
+  text-align: center;
 }
 
 #hero-subheader span {
   color: #9c0f29;
+}
+
+@media screen and (max-width: 767px) {
+  #hero-header {
+    font-size: 2.5rem;
+  }
+
+  #hero-subheader {
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  #hero-header {
+    font-size: 3rem;
+    max-width: 80%;
+  }
+
+  #hero-subheader {
+    font-size: 2rem;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  #hero-header {
+    font-size: 4rem;
+    max-width: 80%;
+  }
+
+  #hero-subheader {
+    font-size: 3rem;
+  }
 }
