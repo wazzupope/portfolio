@@ -23,7 +23,9 @@
 
 #hero-header {
   max-width: 80%;
+  text-align: center;
 }
+
 #hero-subheader {
   display: flex;
   flex-direction: column;
