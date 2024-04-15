@@ -5,11 +5,10 @@
 
 #skills-header {
   padding-bottom: 1em;
-  font-size: 4rem;
 }
 
 #skills-list {
-  font-size: 1rem;
+  list-style: none;
 }
 
 #skills-header, #skills-list, .skills-list-item {
@@ -20,17 +19,32 @@
 @media screen and (max-width: 767px) {
   #skills {
     padding: 1em;
+    font-size: 1.5rem;
+  }
+
+  #skills-list {
+    font-size: 1rem;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   #skills {
     padding: 3em;
+    font-size: 1.5rem;
+  }
+
+  #skills-list {
+    font-size: 1.25rem;
   }
 }
 
 @media screen and (min-width: 1024px) {
   #skills {
     padding: 3em;
+    font-size: 1.5rem;
+  }
+
+  #skills-list {
+    font-size: 1.25rem;
   }
 }
