@@ -38,9 +38,7 @@ Format Nav for desktop screen widths
 Consider adding image to background of home view under hero
 Responsiveness
   Figure out how to adjust font size for the components like Portfolio and About to keep all the text within the screen height, but not mess up the spacing and padding. Keep it consistent with each media query breakpoint. Need to create some padding between paragraphs and headers in About component.
-  Static nav on one side on desktop, burger pops up instead on mobile widths
-  Fine tune sizing and spacing
-  Add media queries
+  Static nav on one side on desktop, burger pops up instead on mobile and tablet widths
 Move thumbnail screenshot above text description in portfolio section?
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
