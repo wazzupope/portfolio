@@ -29,6 +29,10 @@
   #portfolio {
     padding: 1em;
   }
+
+  .portfolio-subheader, .portfolio-description {
+    font-size: 1.25rem;
+  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
