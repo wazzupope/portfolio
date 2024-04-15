@@ -30,10 +30,11 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 # To Do:
 Edit text content
 Fix hamburger menu styling
-  Can you make it slide down from the top?
-  Size in relation to the rest of the screen
+  Put it in a media query so only visible on tablet and mobile widths
   Dynamic width based on screen width
+    25vw?
   Change size of "X" close button
+Format Nav for desktop screen widths
 Consider adding image to background of home view under hero
 Responsiveness
   Figure out how to adjust font size for the components like Portfolio and About to keep all the text within the screen height, but not mess up the spacing and padding. Keep it consistent with each media query breakpoint. Need to create some padding between paragraphs and headers in About component.
