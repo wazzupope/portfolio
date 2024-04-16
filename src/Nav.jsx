@@ -17,18 +17,27 @@ function Nav() {
 
   return (
     <nav id='nav' ref={navMenu}>
-      <Menu
-      right
-      isOpen={isMenuOpen}
-      onOpen={handleMenuOpen}
-      onClose={handleMenuOpen}
-      >
+      <div id='sidebar-container'>
         <a id="home-link" className="menu-item" href="/">HOME</a>
         <a onClick={closeMenu} id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
         <a onClick={closeMenu} id="about-link" className="menu-item" href="#about">ABOUT</a>
         <a onClick={closeMenu} id="skills-link" className="menu-item" href="#skills">SKILLS</a>
         <a onClick={closeMenu} id="contact-link" className="menu-item" href="#contact">CONTACT</a>
-      </Menu>
+      </div>
+      <div id='burger-container'>
+        <Menu
+        right
+        isOpen={isMenuOpen}
+        onOpen={handleMenuOpen}
+        onClose={handleMenuOpen}
+        >
+          <a id="home-link" className="menu-item" href="/">HOME</a>
+          <a onClick={closeMenu} id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
+          <a onClick={closeMenu} id="about-link" className="menu-item" href="#about">ABOUT</a>
+          <a onClick={closeMenu} id="skills-link" className="menu-item" href="#skills">SKILLS</a>
+          <a onClick={closeMenu} id="contact-link" className="menu-item" href="#contact">CONTACT</a>
+        </Menu>
+      </div>
     </nav>
   )
 }
