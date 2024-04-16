@@ -1,23 +1,33 @@
-@media screen and (max-width: 767px) {
-  
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-
-}
-
-@media screen and (min-width: 1024px) {
-
-}
-
-#header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: white;
-  height: 13vh;
-}
-
 #white-FWD-logo {
   height: 13vh;
+}
+
+@media screen and (max-width: 767px) {
+  #header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    height: 13vh;
+  }
+
+  #sidebar-container {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  #header {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+  }
+
+  #sidebar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    width: 25vw;
+    height: 100vh;
+  }
 }
