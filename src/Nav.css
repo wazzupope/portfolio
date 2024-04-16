@@ -3,57 +3,53 @@
   height: 100%
 }
 
-#nav:hover {
-  opacity: 1;
-}
-
 .menu-item {
   color: white;
 }
 
 @media screen and (max-width: 767px) {
+  #nav:hover {
+    opacity: 1;
+  }
+
+  .bm-burger-button {
+    position: fixed;
+    width: 6vh;
+    height: 4.33vh;
+    right: 4.33vh;
+    top: 4.33vh;
+    background: transparent;
+  }
   
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bm-burger-bars {
+    background: #4D4D4D;
+  }
   
-}
-
-@media screen and (min-width: 1024px) {
+  .bm-burger-bars-hover {
+    background: #4D4D4D;
+  }
   
+  .bm-cross {
+    background: white;
+  }
+  
+  .bm-item {
+    background: black;
+  }
+  
+  .bm-menu {
+    background: black;
+    padding: 1.5em 1em 0;
+    font-size: 2em;
+  }
+  
+  #react-burger-cross-btn {
+    background: white;
+  }
 }
 
-.bm-burger-button {
-  position: fixed;
-  width: 6vh;
-  height: 4.33vh;
-  right: 4.33vh;
-  top: 4.33vh;
-  background: transparent;
-}
-
-.bm-burger-bars {
-  background: #4D4D4D;
-}
-
-.bm-burger-bars-hover {
-  background: #4D4D4D;
-}
-
-.bm-cross {
-  background: white;
-}
-
-.bm-item {
-  background: black;
-}
-
-.bm-menu {
-  background: black;
-  padding: 1.5em 1em 0;
-  font-size: 2em;
-}
-
-#react-burger-cross-btn {
-  background: white;
+@media screen and (min-width: 768px) {
+  #burger-container {
+    display: none;
+  }
 }
