@@ -30,14 +30,12 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 # To Do:
 Edit text content
 Fix hamburger menu styling
-  Put it in a media query so only visible on tablet and mobile widths
+  Likely need to move sidebar menu for desktop widths to header component, so you can keep logo in it
+  Consider importing contact component and stick it at bottom, then hide contact at bottom on smaller screens (display: none)
   Dynamic width based on screen width
     25vw?
   Change size of "X" close button
-Format Nav for desktop screen widths
 Consider adding image to background of home view under hero
-Responsiveness
-  Static nav on one side on desktop, burger pops up instead on mobile and tablet widths
 Move thumbnail screenshot above text description in portfolio section?
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
