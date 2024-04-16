@@ -17,6 +17,7 @@ function Nav() {
 
   return (
     <nav id='nav' ref={navMenu}>
+      {/* menu for screen sizes 768px or greater */}
       <div id='sidebar-container'>
         <a id="home-link" className="menu-item" href="/">HOME</a>
         <a onClick={closeMenu} id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
@@ -24,6 +25,7 @@ function Nav() {
         <a onClick={closeMenu} id="skills-link" className="menu-item" href="#skills">SKILLS</a>
         <a onClick={closeMenu} id="contact-link" className="menu-item" href="#contact">CONTACT</a>
       </div>
+      {/* menu for screen sizes less than 768px */}
       <div id='burger-container'>
         <Menu
         right
