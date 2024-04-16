@@ -28,14 +28,15 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
-Edit text content
-Fix hamburger menu styling
-  Likely need to move sidebar menu for desktop widths to header component, so you can keep logo in it
-  Consider importing contact component and stick it at bottom, then hide contact at bottom on smaller screens (display: none)
-  Dynamic width based on screen width
+Fix header/nav styling
+  Use black FWD logo in sidebar component
+  Figure out how to position the sidebar component along the side of the screen and keep it there regardless of scroll (seems like you may need a container around the rest of the components then use flexbox to put them to the side of the "header")
+  Import contact component and stick it at bottom of "header" on larger screen widths, then hide contact at bottom on smaller screens (display: none)
+  Dynamic width based on screen width (for both burger menu on small sizes and "header" on larger sizes)
     25vw?
-  Change size of "X" close button
+  Change size of "X" close button on burger menu
 Consider adding image to background of home view under hero
+Edit text content
 Move thumbnail screenshot above text description in portfolio section?
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 Modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
