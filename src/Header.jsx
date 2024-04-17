@@ -18,6 +18,7 @@ function Header() {
         <a id="contact-link" className="menu-item" href="#contact">CONTACT</a>
       </div>
       <Contact />
+      {/* menu for screen sizes less than 768px */}
       <Nav />
     </header>
   )
