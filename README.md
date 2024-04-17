@@ -29,7 +29,6 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
 Fix header/nav styling
-  Use black FWD logo in sidebar component
   Figure out how to position the sidebar component along the side of the screen and keep it there regardless of scroll (seems like you may need a container around the rest of the components then use flexbox to put them to the side of the "header")
   Import contact component and stick it at bottom of "header" on larger screen widths, then hide contact at bottom on smaller screens (display: none)
   Dynamic width based on screen width (for both burger menu on small sizes and "header" on larger sizes)
