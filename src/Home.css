@@ -5,7 +5,6 @@
   justify-content: center;
   background-color: black;
   color: white;
-  height: 87vh;
 }
 
 #hero-header {
@@ -26,6 +25,10 @@
 }
 
 @media screen and (max-width: 767px) {
+  #hero {
+    height: 87vh;
+  }
+
   #hero-header {
     font-size: 2.5rem;
   }
@@ -36,6 +39,10 @@
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
+  #hero {
+    height: 100vh;
+  }
+
   #hero-header {
     font-size: 3rem;
     max-width: 80%;
@@ -47,6 +54,10 @@
 }
 
 @media screen and (min-width: 1024px) {
+  #hero {
+    height: 100vh;
+  }
+
   #hero-header {
     font-size: 4rem;
     max-width: 80%;
