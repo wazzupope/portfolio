@@ -1,13 +1,17 @@
-#white-FWD-logo {
-  height: 13vh;
-}
-
 @media screen and (max-width: 767px) {
   #header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: white;
+    height: 13vh;
+  }
+
+  #black-FWD-logo {
+    display: none;
+  }
+
+  #white-FWD-logo {
     height: 13vh;
   }
 
@@ -22,6 +26,14 @@
     flex-direction: column;
     background-color: white;
     align-items: flex-end;
+  }
+
+  #white-FWD-logo {
+    display: none;
+  }
+
+  #black-FWD-logo {
+    height: 13vh;
   }
 
   #sidebar-container {
