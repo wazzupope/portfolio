@@ -8,14 +8,16 @@ import Contact from './Contact.jsx'
 
 function App() {
   return (
-    <>
+    <section id='page-container'>
+      <section id='content-container'>
+        <Home />
+        <Portfolio />
+        <About />
+        <Skills />
+        <Contact />
+      </section>
       <Header />
-      <Home />
-      <Portfolio />
-      <About />
-      <Skills />
-      <Contact />
-    </>
+    </section>
   )
 }
 
