@@ -4,7 +4,10 @@ import Nav from './Nav.jsx'
 function Header() {
   return (
     <header id='header'>
-      <a href='/'><img id='white-FWD-logo' src='/assets/FWD-logo-white.jpg' alt='Fairhart Web Development Logo'/></a>
+      <a href='/'>
+        <img id='white-FWD-logo' src='/assets/FWD-logo-white.jpg' alt='Fairhart Web Development Logo'/>
+        <img id='black-FWD-logo' src='/assets/FWD-logo-black.jpg' alt='Fairhart Web Development Logo'/>
+      </a>
       {/* menu for screen sizes 768px or greater */}
       <div id='sidebar-container'>
         <a id="home-link" className="menu-item" href="/">HOME</a>
