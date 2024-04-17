@@ -29,7 +29,6 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
 Fix header/nav styling
-  Figure out how to position the sidebar component along the side of the screen and keep it there regardless of scroll (seems like you may need a container around the rest of the components then use flexbox to put them to the side of the "header")
   Import contact component and stick it at bottom of "header" on larger screen widths, then hide contact at bottom on smaller screens (display: none)
   Dynamic width based on screen width (for both burger menu on small sizes and "header" on larger sizes)
     25vw?
@@ -38,5 +37,5 @@ Consider adding image to background of home view under hero
 Edit text content
 Move thumbnail screenshot above text description in portfolio section?
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
-Modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
+On mobile views: modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh?
 Check accessibility checklist
