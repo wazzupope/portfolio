@@ -1,5 +1,6 @@
 import './Header.css'
 import Nav from './Nav.jsx'
+import Contact from './Contact.jsx'
 
 function Header() {
   return (
@@ -16,6 +17,7 @@ function Header() {
         <a id="skills-link" className="menu-item" href="#skills">SKILLS</a>
         <a id="contact-link" className="menu-item" href="#contact">CONTACT</a>
       </div>
+      <Contact />
       <Nav />
     </header>
   )
