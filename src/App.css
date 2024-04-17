@@ -6,4 +6,8 @@
   #content-container {
     width: 80vw;
   }
+
+  #contact-container {
+    display: none;
+  }
 }
