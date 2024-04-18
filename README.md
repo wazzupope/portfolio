@@ -29,6 +29,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
 Header is now at the bottom of the screen on smaller sizes, because you moved it after the content-container in app.jsx. You did this so the nav would be on the right side of the screen. Would be easier to just move it to the left of the screen and not have this headache.
+Contact.css - changed width of contact-links to 4vw, also need to play with padding to allow them more space to move laterally, keep the padding-bottom, and potentially will need to maintain some padding from the side dependening on the screen width, but want the links to be visible without looking crammed. Could consider aligning them vertically.
 Why is burger menu no longer opening on smaller screen sizes? What did you change on the element that contains the open/close logic that disabled that functionality?
 There's some weirdness going on with the transition to screen width less than 1024px
 Height of Home/main component is now less than 100% on smaller screen sizes (after messing with media queries and styling on larger screen sizes)
