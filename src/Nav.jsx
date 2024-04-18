@@ -16,9 +16,9 @@ function Nav() {
   document.addEventListener('mousedown', closeOpenMenu)
 
   return (
-    <nav id='nav' ref={navMenu}>
-      {/* menu for screen sizes less than 768px */}
-      <div id='burger-container'>
+    <div id='burger-container'>
+      <nav id='nav' ref={navMenu}>
+        {/* menu for screen sizes less than 768px */}
         <Menu
         right
         isOpen={isMenuOpen}
@@ -31,8 +31,8 @@ function Nav() {
           <a onClick={closeMenu} id="skills-link" className="menu-item" href="#skills">SKILLS</a>
           <a onClick={closeMenu} id="contact-link" className="menu-item" href="#contact">CONTACT</a>
         </Menu>
-      </div>
-    </nav>
+      </nav>
+    </div>
   )
 }
 
