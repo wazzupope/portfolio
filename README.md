@@ -28,6 +28,7 @@ Docs - https://react-type-animation.netlify.app/
 https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
+Header is now at the bottom of the screen on smaller sizes, because you moved it after the content-container in app.jsx. You did this so the nav would be on the right side of the screen. Would be easier to just move it to the left of the screen and not have this headache.
 Why is burger menu no longer opening on smaller screen sizes? What did you change on the element that contains the open/close logic that disabled that functionality?
 There's some weirdness going on with the transition to screen width less than 1024px
 Height of Home/main component is now less than 100% on smaller screen sizes (after messing with media queries and styling on larger screen sizes)
