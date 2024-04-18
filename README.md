@@ -31,7 +31,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 Why is burger menu no longer opening on smaller screen sizes? What did you change on the element that contains the open/close logic that disabled that functionality?
 There's some weirdness going on with the transition to screen width less than 1024px
 Height of Home/main component is now less than 100% on smaller screen sizes (after messing with media queries and styling on larger screen sizes)
-Probably need a min width on the header for when screen width getting down toward 768 (portfolio text overflowing wider than the container)
+Probably need a min width on the header for when screen width getting down toward 768 (portfolio text overflowing wider than the container) (actually, probably just need to shrink font-size of the nav links as screen size gets smaller)
 Will need to modify size of logos in contact section as screen widths shrink toward 768px
 Fix header/nav styling
   Dynamic width based on screen width (for both burger menu on small sizes)
