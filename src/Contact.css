@@ -30,6 +30,7 @@ a {
 
   .contact-links {
     width: 10vw;
+    min-width: 70px;
   }
 }
 
