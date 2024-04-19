@@ -15,7 +15,7 @@ function App() {
         <Portfolio />
         <About />
         <Skills />
-        <div id='contact-container'>
+        <div id='contact-section-container'>
           <Contact />
         </div>
       </section>
