@@ -18,6 +18,10 @@
   #sidebar-container {
     display: none;
   }
+
+  #header-contact-container {
+    display: none;
+  }
 }
 
 @media screen and (min-width: 768px) {
