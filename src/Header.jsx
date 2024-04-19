@@ -17,7 +17,9 @@ function Header() {
         <a id="skills-link" className="menu-item" href="#skills">SKILLS</a>
         <a id="contact-link" className="menu-item" href="#contact">CONTACT</a>
       </div>
-      <Contact />
+      <div id='header-contact-container'>
+        <Contact />
+      </div>
       {/* menu for screen sizes less than 768px */}
       <Nav />
     </header>
