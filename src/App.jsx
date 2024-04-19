@@ -9,6 +9,7 @@ import Contact from './Contact.jsx'
 function App() {
   return (
     <section id='page-container'>
+      <Header />
       <section id='content-container'>
         <Home />
         <Portfolio />
@@ -18,7 +19,6 @@ function App() {
           <Contact />
         </div>
       </section>
-      <Header />
     </section>
   )
 }
