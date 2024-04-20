@@ -29,7 +29,9 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 
 # To Do:
 Contact link in header is not linking to contact section, presumably because now the #contact id is located in two places
-Probably need a min width on the header for when screen width getting down toward 768 (portfolio text overflowing wider than the container) (actually, probably just need to shrink font-size of the nav links as screen size gets smaller)
+
+Burger menu on mobile screens is no longer extending to top of screen
+
 Fix header/nav styling
   Dynamic width based on screen width (for both burger menu on small sizes)
     20vw?
