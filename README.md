@@ -39,7 +39,7 @@ Why is there a small white line at the top of the screen when you click on the s
 
 Change size of "X" close button on burger menu - use customCrossIcon referenced in docs, also see above linked github issue, users mentioned they needed to change the min-height and min-width of bm-cross-button in order to change the clickable button's size as well
 
-Consider adding image to background of home view under hero
+Background image for home view under hero is in assets, need to link it
 
 Edit text content
 
