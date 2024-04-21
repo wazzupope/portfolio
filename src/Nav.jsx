@@ -21,6 +21,7 @@ function Nav() {
         {/* menu for screen sizes less than 768px */}
         <Menu
         right
+        customCrossIcon={ <img src="/assets/close.svg" className='close-icon' /> }
         isOpen={isMenuOpen}
         onOpen={handleMenuOpen}
         onClose={handleMenuOpen}
