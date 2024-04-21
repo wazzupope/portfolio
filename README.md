@@ -31,6 +31,9 @@ Docs - https://react-type-animation.netlify.app/
 # CSS Reset
 https://www.joshwcomeau.com/css/custom-css-reset/
 
+# Background Image
+Credit to Jayrocky on Pexels - image of Riffe Lake in Washington, USA
+
 # To Do:
 Why is there a small white line at the top of the screen when you click on the skills section?
 
