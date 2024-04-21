@@ -18,6 +18,10 @@ Used for hamburger menu nav that slides in from side of screen
 npm install react-burger-menu --save
 Docs - https://www.npmjs.com/package/react-burger-menu
 FAQ, includes examples for handling open/closed state - https://github.com/negomi/react-burger-menu/wiki/FAQ
+There is a bug with resizing the cross button to close the menu:
+https://github.com/negomi/react-burger-menu/issues/282
+Usage of customCrossIcon prop was recommended:
+https://github.com/negomi/react-burger-menu#custom-icons
 
 # react-type-animation
 Used to animate text in hero
@@ -30,7 +34,7 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 # To Do:
 Why is there a small white line at the top of the screen when you click on the skills section?
 
-Change size of "X" close button on burger menu
+Change size of "X" close button on burger menu - use customCrossIcon referenced in docs, also see above linked github issue, users mentioned they needed to change the min-height and min-width of bm-cross-button in order to change the clickable button's size as well
 
 Consider adding image to background of home view under hero
 
