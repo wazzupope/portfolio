@@ -37,9 +37,7 @@ Credit to Jayrocky on Pexels - image of Riffe Lake in Washington, USA
 # To Do:
 Why is there a small white line at the top of the screen when you click on the skills section?
 
-Change size of "X" close button on burger menu - use customCrossIcon referenced in docs, also see above linked github issue, users mentioned they needed to change the min-height and min-width of bm-cross-button in order to change the clickable button's size as well
-
-Background image for home view under hero is in assets, need to link it
+Check the portfolio and about sections on chrome's simulation of "Nest Hub" screen size - need to adapt media queries for screen height? Does this have anything to do with the small white line at the top shen clicking on the skills section?
 
 Edit text content
 
@@ -47,6 +45,8 @@ Move thumbnail screenshot above text description in portfolio section?
 
 Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 
-On mobile views: modify layout/size of Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh? Add footer to it?
+On mobile views: modify layout/size of bottom Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh? Add footer to it?
 
 Check accessibility checklist
+
+Lighthouse?
