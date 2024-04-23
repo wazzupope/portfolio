@@ -25,12 +25,16 @@
   text-decoration: none;
 }
 
+.portfolio-tech {
+  color: #A6A6A6;
+}
+
 @media screen and (max-width: 767px) {
   #portfolio {
     padding: 1em;
   }
 
-  .portfolio-subheader, .portfolio-description {
+  .portfolio-subheader, .portfolio-description, .portfolio-tech {
     font-size: 1.25rem;
   }
 }
