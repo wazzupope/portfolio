@@ -8,10 +8,11 @@ function Portfolio() {
         <a className='header-link' href='https://lfizzle-invitational.web.app'>
           <h3 className='portfolio-subheader'>LFizzle Invitational</h3>
         </a>
-        <p className='portfolio-description'>Golf tournament website created using React with live scoring feature.</p>
         <a id='LFI-link' className='portfolio-link' href='https://lfizzle-invitational.web.app'>
           <img id='LFI-screenshot' className='portfolio-screenshot' src='/assets/LFI-screenshot.png' alt='Thumbnail of golf tournament website'></img>
         </a>
+        <p className='portfolio-description'>Golf tournament website with live scoring feature.</p>
+        <p className='portfolio-tech'>Technologies used: React, CSS, Firebase, Git, GitHub</p>
       </div>
     </section>
   )
