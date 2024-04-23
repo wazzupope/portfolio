@@ -20,6 +20,12 @@
   max-width: 750px;
 }
 
+.portfolio-content-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .portfolio-subheader {
   color: #9c0f29;
   text-decoration: none;
