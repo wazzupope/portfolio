@@ -39,6 +39,8 @@ Why is there a small white line at the top of the screen when you click on the s
 
 Check the portfolio and about sections on chrome's simulation of "Nest Hub" screen size - need to adapt media queries for screen height? Does this have anything to do with the small white line at the top shen clicking on the skills section?
 
+Style Skills section
+
 Edit text content
   Hero text animation wording ideas: the outdoors, anything, applications,
 
