@@ -4,7 +4,7 @@ function Portfolio() {
   return (
     <section id='portfolio'>
       <h2 id='portfolio-header'>Portfolio</h2>
-      <div>
+      <div className='portfolio-content-div'>
         <a className='header-link' href='https://lfizzle-invitational.web.app'>
           <h3 className='portfolio-subheader'>LFizzle Invitational</h3>
         </a>
