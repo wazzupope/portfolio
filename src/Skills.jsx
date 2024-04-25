@@ -50,7 +50,7 @@ function Skills() {
           <h3 className='skills-subheader'>Other Technologies</h3>
           <ul id='other-skills-list' className='skills-list'>
             <li className='skills-list-item'>
-              <img className='skill-logo-image' src="../assets/nextjs-logo.svg" alt="Next.js icon"/>
+              <img id='next-logo' className='skill-logo-image' src="../assets/nextjs-logo.svg" alt="Next.js icon"/>
               <span>
                 Next.js
               </span>
