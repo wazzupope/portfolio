@@ -35,18 +35,17 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 Credit to Jayrocky on Pexels - image of Riffe Lake in Washington, USA
 
 # To Do:
+Finish styling Skills section
+  Fix border of nextjs image in skills.css, background is white, but don't want the edges of the circle to show any white
+  Improve layout
+  Make responsive
+
 Why is there a small white line at the top of the screen when you click on the skills section?
 
 Check the portfolio and about sections on chrome's simulation of "Nest Hub" screen size - need to adapt media queries for screen height? Does this have anything to do with the small white line at the top shen clicking on the skills section?
 
-Style Skills section
-
 Edit text content
   Hero text animation wording ideas: the outdoors, anything, applications,
-
-Move thumbnail screenshot above text description in portfolio section?
-
-Decide whether to divide technologies in Skills to "well-used" and "some exposure" or something of that nature
 
 On mobile views: modify layout/size of bottom Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh? Add footer to it?
 
