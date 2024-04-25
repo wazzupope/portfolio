@@ -7,13 +7,13 @@
   padding-bottom: 1em;
 }
 
-#skills-container {
-  list-style: none;
-}
-
 #skills-header, #skills-container, .skills-list-item {
   background-color: black;
   color: white;
+}
+
+.skills-list {
+  list-style: none;
 }
 
 @media screen and (max-width: 767px) {
