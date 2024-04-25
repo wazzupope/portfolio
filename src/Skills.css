@@ -12,6 +12,11 @@
   color: white;
 }
 
+#next-logo {
+  background-color: white;
+  border-radius: 50%;
+}
+
 .skills-list {
   list-style: none;
 }
