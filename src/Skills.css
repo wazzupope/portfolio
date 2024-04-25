@@ -16,6 +16,10 @@
   list-style: none;
 }
 
+.skill-logo-image {
+  max-width: 50px;
+}
+
 @media screen and (max-width: 767px) {
   #skills {
     padding: 1em;
