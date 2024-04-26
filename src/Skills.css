@@ -19,6 +19,9 @@
 
 .skills-list {
   list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .skill-logo-image {
