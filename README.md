@@ -37,8 +37,8 @@ Credit to Jayrocky on Pexels - image of Riffe Lake in Washington, USA
 # To Do:
 Finish styling Skills section
   Fix border of nextjs image in skills.css, background is white, but don't want the edges of the circle to show any white
-  Improve layout
-  Make responsive
+  Find different HTML and CSS svgs, current ones have black text above logo that is making them look smaller than the other logos
+  Check responsiveness, potential need to use media queries
 
 Why is there a small white line at the top of the screen when you click on the skills section?
 
@@ -48,6 +48,7 @@ Edit text content
   Hero text animation wording ideas: the outdoors, anything, applications,
 
 On mobile views: modify layout/size of bottom Contact section so that when you click the Nav link to it, it doesn't look like you've just jumped to the bottom of the section above it. Maybe it doesn't need to be 100vh size, but maybe needs to be 50vh? Add footer to it?
+  I think make it 100vh, add some text as a footer and a call to action for contacting
 
 Check accessibility checklist
 
