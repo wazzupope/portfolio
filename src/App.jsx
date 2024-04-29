@@ -5,6 +5,7 @@ import About from './About.jsx'
 import Skills from './Skills.jsx'
 import Portfolio from './Portfolio.jsx'
 import Contact from './Contact.jsx'
+import Footer from './Footer.jsx'
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
         <div id='contact'>
           <Contact />
         </div>
+        <Footer />
       </section>
     </section>
   )
