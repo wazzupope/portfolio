@@ -45,9 +45,6 @@ Check the portfolio and about sections on chrome's simulation of "Nest Hub" scre
 Edit text content
   Hero text animation wording ideas: the outdoors, anything, applications,
 
-For Contact section on mobile views:
-  consider adding some type of footer text or call to action for contacting
-
 Check accessibility checklist
 
 Lighthouse?
