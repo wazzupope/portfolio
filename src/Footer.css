@@ -9,4 +9,9 @@
 
 #footer-FWD-logo {
   width: 50vw;
+  max-width: 200px;
+}
+
+#copyright {
+  margin-bottom: 1em;
 }
