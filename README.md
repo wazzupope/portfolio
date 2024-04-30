@@ -35,21 +35,9 @@ https://www.joshwcomeau.com/css/custom-css-reset/
 Credit to Jayrocky on Pexels - image of Riffe Lake in Washington, USA
 
 # To Do:
-For larger monitor sizes (1500px and up, with 1920x1080 being standard largest size to design for): consider centering content (but not headers) of each section
-  Make section headers larger (3.5rem)
-  Consider making the rest of the font sizes larger, too
-    subheaders (h3) - 2.5rem
-    p tags - 2rem
-    Increase size of portfolio screenshots
-    consider increasing size of skills logo images
-  After changing size of font, will likely need to change the margins:
-    between text in the About section
-    around the image in the portfolio section
-    maybe between text lines in the portfolio section too
-    between skills logos
-
 Edit text content
-  Hero text animation wording ideas: the outdoors, anything, applications,
+  Revammp About section
+  Consider other ways of describing Portfolio projects
 
 Check accessibility checklist
 
