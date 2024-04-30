@@ -44,7 +44,7 @@
   }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1500px) {
   #about {
     padding: 3em;
     font-size: 1.5rem;
@@ -52,5 +52,20 @@
 
   .about-text {
     font-size: 1.25rem;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  #about {
+    padding: 5rem;
+    font-size: 3rem;
+  }
+
+  .about-subheader {
+    font-size: 2.5rem;
+  }
+
+  .about-text {
+    font-size: 2rem;
   }
 }
