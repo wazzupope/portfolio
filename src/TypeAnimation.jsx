@@ -8,11 +8,12 @@ const Animation = () => {
         1000,
         'wellness.',
         1000,
-        'athletics.',
-        1000,
         'sports leagues.',
         1000,
-        'tournaments.',
+        'applications.',
+        1000,
+        'anything.',
+        1000,
         () => {
           console.log('Sequence completed');
         },
