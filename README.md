@@ -39,9 +39,12 @@ Edit text content
   Revammp About section
   Consider other ways of describing Portfolio projects
 
-Check accessibility checklist
-
-Lighthouse?
+Lighthouse
+  In the header>sidebar-container, the ids (e.g. home-link) are the same as the ids in the burger menu (burger-container>nav>div>bm-menu-wrap>bm-menu>bm-item-list)
+    Can you change the ids on one of these without messing up the css too bad?
+    Recheck lighthouse accessibility report after to see if it is fixed
+  Add a meta description to help with SEO
+  Look into performance diagnostics in the report and ways to improve
 
 Why is there a small white line at the top of the screen when you click on the skills section?
   This is from the about section, but both have 100vh
