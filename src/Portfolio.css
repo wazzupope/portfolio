@@ -13,11 +13,11 @@
   display: flex;
   justify-content: center;
   padding: 2em 0px;
+  width: 100%;
 }
 
 #LFI-screenshot {
   width: 80%;
-  max-width: 750px;
 }
 
 .portfolio-content-div {
@@ -49,10 +49,37 @@
   #portfolio {
     padding: 3em;
   }
+
+  #LFI-screenshot {
+    max-width: 750px;
+  }
 }
 
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 1024px) and (max-width: 1500px) {
   #portfolio {
     padding: 3em;
+  }
+
+  #LFI-screenshot {
+    max-width: 750px;
+  }
+}
+
+@media screen and (min-width: 1500px) {
+  #portfolio {
+    padding: 5rem;
+    font-size: 3rem;
+  }
+
+  .portfolio-subheader {
+    font-size: 2.5rem;
+  }
+
+  .portfolio-description, .portfolio-tech {
+    font-size: 2rem;
+  }
+
+  #LFI-screenshot {
+    max-width: 1000px;
   }
 }
