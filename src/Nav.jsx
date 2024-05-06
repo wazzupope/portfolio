@@ -26,11 +26,11 @@ function Nav() {
         onOpen={handleMenuOpen}
         onClose={handleMenuOpen}
         >
-          <a id="home-link" className="menu-item" href="/">HOME</a>
-          <a onClick={closeMenu} id="portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
-          <a onClick={closeMenu} id="about-link" className="menu-item" href="#about">ABOUT</a>
-          <a onClick={closeMenu} id="skills-link" className="menu-item" href="#skills">SKILLS</a>
-          <a onClick={closeMenu} id="contact-link" className="menu-item" href="#contact">CONTACT</a>
+          <a id="burger-home-link" className="menu-item" href="/">HOME</a>
+          <a onClick={closeMenu} id="burger-portfolio-link" className="menu-item" href="#portfolio">PORTFOLIO</a>
+          <a onClick={closeMenu} id="burger-about-link" className="menu-item" href="#about">ABOUT</a>
+          <a onClick={closeMenu} id="burger-skills-link" className="menu-item" href="#skills">SKILLS</a>
+          <a onClick={closeMenu} id="burger-contact-link" className="menu-item" href="#contact">CONTACT</a>
         </Menu>
       </nav>
     </div>
