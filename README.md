@@ -39,6 +39,8 @@ Edit text content
   Revammp About section
   Consider other ways of describing Portfolio projects
 
+Change Skills section to remove designations of most used vs other
+
 Lighthouse
   Look into performance diagnostics in the report and ways to improve
 
